@@ -4,8 +4,7 @@
 	"entry": "test.pwn",
 	"output": "test.amx",
 	"dependencies": [
-		"sampctl/samp-stdlib",
-		"pawn-lang/YSI-Includes@5.x"
+		"sampctl/samp-stdlib"
 	],
 	"builds": [
 		{
