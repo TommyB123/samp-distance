@@ -5,7 +5,6 @@
 #define _distance_included
 
 #include <a_samp>
-#include <YSI_Data\y_iterate>
 
 /**
  * <library name="samp-distance" summary="Distance calculations for players, objects, vehicles, and more.">
